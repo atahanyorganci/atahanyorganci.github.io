@@ -1,3 +1,3 @@
 # My personal page
 
-[Link](atahanyorganci.github.io)
+[Link](https://atahanyorganci.github.io/)
