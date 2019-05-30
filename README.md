@@ -1,1 +1,3 @@
-"# atahanyorganci.github.io" 
+# My personal page
+
+[Link](atahanyorganci.github.io)
